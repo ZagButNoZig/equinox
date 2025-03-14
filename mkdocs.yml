@@ -77,6 +77,7 @@ plugins:
             - "examples/MNIST"
             - "examples/bert_checkpoint.eqx"
     - ipynb
+    - mkdocstrings_python_extensions
     - mkdocstrings:
         handlers:
             python:
